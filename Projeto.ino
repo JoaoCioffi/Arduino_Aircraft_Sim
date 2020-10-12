@@ -1,6 +1,6 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /*
-					.::. LCD Pin Function .::.
+		    .::. LCD Pin Function .::.
                     
                      |Display: LCD JHD 162A|
 ___________________________________________________________________
@@ -31,7 +31,6 @@ ____________________________________________________________________
 
 (ii) Altimeter: BPM 180
 [Datasheet: https://pdf1.alldatasheet.com/datasheet-pdf/view/1132068/BOSCH/BMP180.html]
-
 
 (iii) Inclinometer: SCA61T
 [Datasheet: https://pdf1.alldatasheet.com/datasheet-pdf/view/168811/ETC2/SCA61T.html]
