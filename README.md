@@ -1,2 +1,5 @@
-# Arduino_Aircraft_Sim
-Digital Circuits and Microprocessors final project during my graduation
+# Arduino Aircraft Simulator
+
+- Digital Circuits and Microprocessors final project during my graduation;
+- Integrated system including: Avionics and Auto-Flight;
+- Visit: https://www.tinkercad.com/things/in8wmLeduTm-cdm-projeto-final-final/editel
